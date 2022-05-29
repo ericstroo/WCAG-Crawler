@@ -1,0 +1,15 @@
+{
+  "name": "wcag-crawler",
+  "version": "1.0.0",
+  "description": "An accessibility tool for the dev on the go",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Stroo",
+  "license": "MIT",
+  "dependencies": {
+    "pa11y": "^6.2.3",
+    "simplecrawler": "^1.1.9"
+  }
+}
